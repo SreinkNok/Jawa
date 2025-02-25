@@ -7,5 +7,6 @@ public class InputTaker {
         System.out.println("What is your lucky number");
         int y = sc.nextInt();
         System.out.println("Hi "+x+"your name is very cringe and average sound auful and you lucky number "+y+" its very unlucky be carfull");
+        rhjnkejkd.ehghfjhfjffknghbkhfkkkkj
     }
 }
